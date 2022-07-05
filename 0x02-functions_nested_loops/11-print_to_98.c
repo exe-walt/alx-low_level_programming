@@ -4,7 +4,8 @@
  * print_to_98 - function that prints all natural numbers from n to 98
  * @n: takes in an integer
  */
-void print_to_98(int n){
+void print_to_98(int n)
+{
 int i;
 
 if (n > 98)
