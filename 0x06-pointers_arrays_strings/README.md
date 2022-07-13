@@ -1,0 +1,1 @@
+this is a more pointers, array and strings assignment
