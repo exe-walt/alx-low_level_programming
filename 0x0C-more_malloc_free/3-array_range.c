@@ -26,4 +26,5 @@ for (i = 0; min <= max; i++, min++)
 ar[i] = min;
 
 return (ar);
+
 }
