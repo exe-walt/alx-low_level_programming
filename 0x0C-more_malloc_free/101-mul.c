@@ -94,6 +94,7 @@ if (argc != 3)
 printf("Error\n"), exit(98);
 ln1 = _checknum(argv, 1), ln2 = _checknum(argv, 2);
 _is_zero(argv), lnout = ln1 + ln2, nout = malloc(lnout + 1);
+ 
 if (nout == NULL)
 printf("Error\n"), exit(98);
 nout = _initialize_array(nout, lnout);
