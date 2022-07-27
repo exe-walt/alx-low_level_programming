@@ -41,4 +41,5 @@ concat[len++] = s2[index];
 concat[len] = '\0';
 
 return (concat);
+  
 }
