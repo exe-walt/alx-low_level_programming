@@ -3,6 +3,7 @@
 
 
 ## Tests :heavy_check_mark:
+
 * [tests](./tests): Folder of test files.
 
 ## Header File :file_folder:
@@ -97,4 +98,7 @@ Function Prototypes:
     * Key/value pairs are printed in the order they are sorted.
     * Includes a function `shash_table_print_rev()` that prints the hash table in reverse order.
 
-:)
+
+
+
+      	       	 	  			    	 :)
